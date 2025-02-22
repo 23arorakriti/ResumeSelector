@@ -152,7 +152,6 @@ pickleshare==0.7.5
 pillow==10.3.0
 pipreqs==0.5.0
 platformdirs==4.2.0
-playsound==1.3.0
 prometheus_client==0.20.0
 prompt-toolkit==3.0.43
 proto-plus==1.24.0
