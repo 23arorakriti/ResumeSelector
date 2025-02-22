@@ -1,0 +1,99 @@
+Job Type,Requirements
+Software Engineer,"- Proficiency in programming languages (Python, Java, C++, JavaScript, Go, Rust) 
+ - Strong understanding of Data Structures & Algorithms 
+ - Software Development Life Cycle (SDLC) 
+ - Version control (Git, GitHub, GitLab) 
+ - Database Management (SQL - MySQL, PostgreSQL; NoSQL - MongoDB, Firebase) 
+ - Cloud platforms (AWS, Azure, Google Cloud) 
+ - DevOps tools (Docker, Kubernetes, CI/CD) 
+ - Knowledge of APIs (REST, GraphQL) 
+ - Security principles (authentication, encryption, secure coding) 
+ - Agile methodologies (Scrum, Kanban) 
+ - Debugging & software testing (unit testing, integration testing, test automation)"
+AI/ML Engineer,"- Machine Learning frameworks (TensorFlow, PyTorch, Scikit-learn) 
+ - Deep Learning (Neural Networks, CNN, RNN, Transformers) 
+ - Natural Language Processing (NLP), OpenAI, LLMs 
+ - Data preprocessing (Pandas, NumPy, SciPy) 
+ - Mathematics (Linear Algebra, Calculus, Probability, Statistics) 
+ - Model evaluation (Precision, Recall, F1-score) 
+ - Feature Engineering & Hyperparameter Tuning 
+ - Deployment (Docker, Kubernetes, MLflow, FastAPI) 
+ - Edge AI (TinyML, Embedded ML) 
+ - Generative AI (GANs, Diffusion Models, Prompt Engineering)"
+Data Scientist,"- Data Analysis & Visualization (Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI) 
+ - SQL & NoSQL databases 
+ - Statistical Analysis (Hypothesis Testing, Regression Analysis) 
+ - Data Wrangling & Cleaning 
+ - Machine Learning models (Supervised, Unsupervised Learning) 
+ - Big Data technologies (Hadoop, Spark, Kafka) 
+ - Business Intelligence (BI tools, KPI tracking) 
+ - Cloud platforms for data (Google BigQuery, AWS Redshift, Snowflake)"
+Cybersecurity Engineer,"- Network Security (Firewalls, IDS/IPS, VPNs) 
+ - Ethical Hacking & Penetration Testing (Metasploit, Kali Linux) 
+ - Encryption & Cryptography (AES, RSA, Hashing) 
+ - Threat Intelligence & Incident Response 
+ - Security frameworks (NIST, ISO 27001, CIS) 
+ - Cloud Security (IAM, MFA, Zero Trust Security) 
+ - Secure Software Development (OWASP Top 10, Secure Code Review) 
+ - SIEM Tools (Splunk, IBM QRadar, Elastic Security)"
+Doctor (Medical Professional),"- Medical Degree (MBBS, MD, DO) 
+ - Specialization Knowledge (Cardiology, Neurology, Orthopedics, etc.) 
+ - Human Anatomy & Physiology 
+ - Pharmacology & Drug Interactions 
+ - Medical Diagnostics & Lab Tests 
+ - Patient Care & Clinical Decision-Making 
+ - Emergency Medicine & Trauma Handling 
+ - Surgery Techniques (for Surgeons) 
+ - Research & Evidence-Based Medicine 
+ - Electronic Health Records (EHR) & Medical Software"
+Teacher (Educator),"- Subject Matter Expertise (Mathematics, Science, Computer Science, Literature, etc.) 
+ - Pedagogy & Teaching Methodologies 
+ - Curriculum Development 
+ - Classroom Management 
+ - Educational Technology (Google Classroom, Learning Management Systems) 
+ - Student Engagement Strategies 
+ - Assessment & Evaluation Techniques 
+ - Communication & Interpersonal Skills 
+ - Research & Continuous Learning"
+Mechanical Engineer,"- CAD & CAE Software (AutoCAD, SolidWorks, CATIA, ANSYS) 
+ - Thermodynamics & Fluid Mechanics 
+ - Manufacturing Processes (3D Printing, CNC Machining) 
+ - Robotics & Automation 
+ - Structural Analysis 
+ - Material Science & Engineering 
+ - Industry Standards (ISO, ASTM, ASME)"
+Civil Engineer,"- Structural Design & Analysis (STAAD.Pro, ETABS) 
+ - Construction Materials & Techniques 
+ - Surveying & Geotechnical Engineering 
+ - Environmental & Transportation Engineering 
+ - Building Codes & Regulations 
+ - Project Management (AutoCAD Civil 3D, Primavera)"
+Electrical Engineer,"- Circuit Design & Analysis (SPICE, LTspice) 
+ - Embedded Systems (Arduino, Raspberry Pi) 
+ - Power Systems & Renewable Energy 
+ - Microcontrollers & IoT 
+ - Signal Processing & Wireless Communication"
+Graphic Designer,"- Design Software (Adobe Photoshop, Illustrator, Figma, Sketch) 
+ - UI/UX Design Principles 
+ - Typography & Color Theory 
+ - Branding & Marketing Design 
+ - Motion Graphics & Animation (Adobe After Effects)"
+Content Writer,"- Writing & Editing Skills 
+ - SEO & Digital Marketing 
+ - Research & Fact-Checking 
+ - Copywriting & Blogging 
+ - Content Strategy & Social Media Management"
+Marketing Manager,"- Digital Marketing (SEO, SEM, PPC, Email Marketing) 
+ - Social Media Strategy 
+ - Market Research & Consumer Behavior 
+ - Brand Management & Storytelling 
+ - Data Analytics & A/B Testing"
+Lawyer,"- Legal Research & Analysis 
+ - Contract Drafting & Review 
+ - Court Procedures & Litigation 
+ - Corporate Law & Compliance 
+ - Intellectual Property (IP) Law"
+Psychologist,"- Clinical Psychology & Therapy Techniques 
+ - Psychological Assessments & Counseling 
+ - Cognitive Behavioral Therapy (CBT) 
+ - Neuropsychology & Behavioral Science"
